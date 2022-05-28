@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SandyStoreWSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Departamentos">
+    <Key>
+      <PropertyRef Name="DepID" />
+    </Key>
+    <Property Name="DepID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DepDescripcion" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Productos">
+    <Key>
+      <PropertyRef Name="ProID" />
+    </Key>
+    <Property Name="ProID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DepID" Type="int" />
+    <Property Name="ProNombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ProDescripcion" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="ProValor" Type="float" />
+    <Property Name="ProRutaImagen" Type="varchar" MaxLength="200" />
+    <Property Name="ProFechaCreacion" Type="datetime" />
+    <Property Name="ProFechaActualizacion" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_Productos_Productos">
+    <End Role="Departamentos" Type="Self.Departamentos" Multiplicity="0..1" />
+    <End Role="Productos" Type="Self.Productos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departamentos">
+        <PropertyRef Name="DepID" />
+      </Principal>
+      <Dependent Role="Productos">
+        <PropertyRef Name="DepID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SandyStoreWSModelStoreContainer">
+    <EntitySet Name="Departamentos" EntityType="Self.Departamentos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Productos" EntityType="Self.Productos" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Productos_Productos" Association="Self.FK_Productos_Productos">
+      <End Role="Departamentos" EntitySet="Departamentos" />
+      <End Role="Productos" EntitySet="Productos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

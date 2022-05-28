@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="SandyStoreWSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Departamentos">
+          <Key>
+            <PropertyRef Name="DepID" />
+          </Key>
+          <Property Name="DepID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DepDescripcion" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Productos">
+          <Key>
+            <PropertyRef Name="ProID" />
+          </Key>
+          <Property Name="ProID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DepID" Type="int" />
+          <Property Name="ProNombre" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="ProDescripcion" Type="varchar" MaxLength="250" Nullable="false" />
+          <Property Name="ProValor" Type="float" />
+          <Property Name="ProRutaImagen" Type="varchar" MaxLength="200" />
+          <Property Name="ProFechaCreacion" Type="datetime" />
+          <Property Name="ProFechaActualizacion" Type="datetime" />
+        </EntityType>
+        <Association Name="FK_Productos_Productos">
+          <End Role="Departamentos" Type="Self.Departamentos" Multiplicity="0..1" />
+          <End Role="Productos" Type="Self.Productos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Departamentos">
+              <PropertyRef Name="DepID" />
+            </Principal>
+            <Dependent Role="Productos">
+              <PropertyRef Name="DepID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SandyStoreWSModelStoreContainer">
+          <EntitySet Name="Departamentos" EntityType="Self.Departamentos" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Productos" EntityType="Self.Productos" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Productos_Productos" Association="Self.FK_Productos_Productos">
+            <End Role="Departamentos" EntitySet="Departamentos" />
+            <End Role="Productos" EntitySet="Productos" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="SandyStoreWSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="SandyStoreWSEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Productos" EntityType="SandyStoreWSModel.Productos" />
+          <EntitySet Name="Departamentos" EntityType="SandyStoreWSModel.Departamentos" />
+          <AssociationSet Name="FK_Productos_Productos" Association="SandyStoreWSModel.FK_Productos_Productos">
+            <End Role="Departamentos" EntitySet="Departamentos" />
+            <End Role="Productos" EntitySet="Productos" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Productos">
+          <Key>
+            <PropertyRef Name="ProID" />
+          </Key>
+          <Property Name="ProID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DepID" Type="Int32" />
+          <Property Name="ProNombre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ProDescripcion" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+          <Property Name="ProValor" Type="Double" />
+          <Property Name="ProRutaImagen" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Name="ProFechaCreacion" Type="DateTime" Precision="3" />
+          <Property Name="ProFechaActualizacion" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="Departamentos" Relationship="SandyStoreWSModel.FK_Productos_Productos" FromRole="Productos" ToRole="Departamentos" />
+        </EntityType>
+        <EntityType Name="Departamentos">
+          <Key>
+            <PropertyRef Name="DepID" />
+          </Key>
+          <Property Name="DepID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DepDescripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Productos" Relationship="SandyStoreWSModel.FK_Productos_Productos" FromRole="Departamentos" ToRole="Productos" />
+        </EntityType>
+        <Association Name="FK_Productos_Productos">
+          <End Type="SandyStoreWSModel.Departamentos" Role="Departamentos" Multiplicity="0..1" />
+          <End Type="SandyStoreWSModel.Productos" Role="Productos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Departamentos">
+              <PropertyRef Name="DepID" />
+            </Principal>
+            <Dependent Role="Productos">
+              <PropertyRef Name="DepID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="SandyStoreWSModelStoreContainer" CdmEntityContainer="SandyStoreWSEntities">
+          <EntitySetMapping Name="Productos">
+            <EntityTypeMapping TypeName="SandyStoreWSModel.Productos">
+              <MappingFragment StoreEntitySet="Productos">
+                <ScalarProperty Name="ProFechaActualizacion" ColumnName="ProFechaActualizacion" />
+                <ScalarProperty Name="ProFechaCreacion" ColumnName="ProFechaCreacion" />
+                <ScalarProperty Name="ProRutaImagen" ColumnName="ProRutaImagen" />
+                <ScalarProperty Name="ProValor" ColumnName="ProValor" />
+                <ScalarProperty Name="ProDescripcion" ColumnName="ProDescripcion" />
+                <ScalarProperty Name="ProNombre" ColumnName="ProNombre" />
+                <ScalarProperty Name="DepID" ColumnName="DepID" />
+                <ScalarProperty Name="ProID" ColumnName="ProID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Departamentos">
+            <EntityTypeMapping TypeName="SandyStoreWSModel.Departamentos">
+              <MappingFragment StoreEntitySet="Departamentos">
+                <ScalarProperty Name="DepDescripcion" ColumnName="DepDescripcion" />
+                <ScalarProperty Name="DepID" ColumnName="DepID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

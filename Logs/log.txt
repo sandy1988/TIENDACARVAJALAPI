@@ -1,0 +1,674 @@
+2022-05-25 23:03:26,558 [62] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:03:44,422 [62] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-25 23:08:31,869 [62] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:12:27,696 [52] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:13:44,113 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:13:52,367 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:13:53,154 [7] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:13:53,674 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:13:53,968 [7] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:13:54,248 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:15:10,899 [13] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:16:11,037 [13] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:49:00,242 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:54:26,528 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-25 23:56:30,605 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:10:09,864 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:11:05,565 [8] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:13:10,523 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:14:05,779 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:17:59,564 [8] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:19:20,144 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:20:17,746 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:24:02,302 [8] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:25:23,053 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:26:41,221 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:26:44,791 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:27:21,464 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:27:22,241 [11] ERROR SandyStoreWS.Controllers.ProductosController - El esquema especificado no es válido. Errores: 
+No se cargó la relación 'SandyStoreWSModel.FK_Productos_Productos' porque no está disponible el tipo 'SandyStoreWSModel.Departamentos'.
+La siguiente información puede resultarle útil para resolver el error anterior:
+La propiedad necesaria 'Productos' no existe en el tipo 'SandyStoreWS.Departamentos'.
+
+
+2022-05-26 00:27:30,785 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:27:30,809 [11] ERROR SandyStoreWS.Controllers.ProductosController - El esquema especificado no es válido. Errores: 
+No se cargó la relación 'SandyStoreWSModel.FK_Productos_Productos' porque no está disponible el tipo 'SandyStoreWSModel.Departamentos'.
+La siguiente información puede resultarle útil para resolver el error anterior:
+La propiedad necesaria 'Productos' no existe en el tipo 'SandyStoreWS.Departamentos'.
+
+
+2022-05-26 00:42:44,388 [14] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:51:08,531 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:51:14,039 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 00:53:49,509 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 01:31:45,617 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 01:32:31,258 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 01:33:51,166 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-26 01:33:55,718 [7] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 08:37:39,652 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:01:45,758 [24] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:08:33,704 [33] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:08:55,784 [25] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:09:16,334 [25] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:14:23,394 [7] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:14:39,263 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:14:50,643 [29] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:15:06,870 [29] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:15:20,519 [29] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:15:50,285 [29] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:16:32,471 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:16:50,709 [29] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:17:02,194 [34] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:17:17,845 [29] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:17:40,311 [29] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:18:14,834 [29] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:05,539 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:54,210 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:57,107 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:57,375 [31] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:57,646 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:57,885 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:58,103 [31] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:58,295 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:58,526 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:19:58,791 [33] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:20:13,006 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:20:27,830 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:13,817 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:16,278 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:16,604 [31] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:16,822 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:17,035 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:17,220 [31] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:17,407 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:17,572 [31] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:17,754 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:17,932 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:18,109 [31] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:21:18,552 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:22:04,376 [31] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:22:07,312 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:22:59,749 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:02,373 [35] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:02,606 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:02,811 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:03,002 [38] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:03,190 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:03,517 [33] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:03,762 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:03,972 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:04,220 [33] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:04,451 [35] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:04,667 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:04,859 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:05,074 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:05,290 [33] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:06,858 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:07,650 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:39,119 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:42,198 [39] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:43,067 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:44,213 [33] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:23:54,486 [30] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 09:49:14,741 [38] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:08:02,583 [53] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:08:44,499 [54] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:09:12,032 [52] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:12:26,231 [15] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:12:58,938 [52] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:13:57,040 [52] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:14:02,000 [53] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:14:02,816 [56] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:14:42,247 [53] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:15:19,165 [52] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:16:03,949 [60] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:19:31,117 [52] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:41:03,074 [62] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:42:02,621 [65] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:44:19,685 [41] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:44:46,034 [36] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:44:51,028 [63] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:44:56,791 [63] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:45:20,924 [63] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:45:24,945 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:45:28,325 [63] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:45:31,882 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:46:14,874 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:46:17,987 [63] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:46:52,405 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:47:32,963 [65] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:48:28,007 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:48:47,102 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:48:50,204 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:48:50,845 [65] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:48:51,026 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:49:09,412 [36] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:49:41,620 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:49:43,941 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:49:44,160 [36] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:49:44,362 [65] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:49:44,548 [36] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:50:19,749 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:50:43,889 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 10:51:12,546 [65] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:52:51,599 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:54:10,082 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:54:38,922 [65] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:55:43,641 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:56:31,739 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:56:35,066 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:56:35,715 [15] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:56:35,888 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:56:36,067 [65] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:56:36,249 [15] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:56:36,425 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:29,053 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:32,257 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:32,649 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:32,832 [65] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:33,008 [15] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:33,193 [65] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:33,378 [15] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:33,577 [65] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:33,753 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:33,936 [15] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 10:59:34,111 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:00:04,986 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:00:40,655 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:00:57,712 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:01:30,445 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:02:00,511 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:02:24,833 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:02:29,031 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:02:29,769 [15] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:02:30,401 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:02:30,634 [48] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:02:43,368 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:03:36,265 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:04:15,402 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:05:16,173 [48] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:05:17,836 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:05:18,015 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:05:18,216 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:05:18,391 [48] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:05:18,574 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:05:28,450 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:42,247 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:45,528 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:46,016 [12] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:46,230 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:46,431 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:46,639 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:46,840 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:47,036 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:07:59,770 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:08:27,554 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:08:47,783 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:14,984 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:17,631 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:18,528 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:18,969 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:19,198 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:19,634 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:19,851 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:20,054 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:20,247 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:20,453 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:36,313 [51] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:39,871 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:40,088 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:40,278 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:40,471 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:40,654 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:40,822 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:40,999 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:50,119 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:11:51,631 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:12:04,234 [64] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:19:04,550 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:19:31,595 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:19:51,466 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:20:22,085 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:20:36,457 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:23:30,705 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:23:33,006 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:23:33,709 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:23:33,918 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:23:34,138 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:23:34,359 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:23:45,539 [58] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:25:01,812 [50] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:27:21,697 [13] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:28:21,101 [12] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:29:24,421 [51] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:29:50,318 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:30:30,968 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:30:48,326 [14] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:31:17,448 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:31:59,190 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:32:00,778 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:32:02,036 [51] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:32:02,211 [13] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:32:02,390 [51] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:32:46,479 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:25,979 [14] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:26,852 [13] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:27,059 [14] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:27,276 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:27,485 [13] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:27,691 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:28,130 [14] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:28,329 [13] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:28,526 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:28,713 [14] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:28,919 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:29,106 [13] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:45:29,292 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:46:27,477 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:49:13,010 [49] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:49:35,738 [41] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:49:54,209 [41] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:51:50,089 [19] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:52:49,526 [24] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 11:52:49,999 [24] ERROR SandyStoreWS.Clases.ProductosNegocio - Error al actualizar las entradas. Vea la excepción interna para obtener detalles.
+2022-05-27 11:52:58,536 [41] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 11:53:18,566 [41] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:53:33,420 [24] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 11:57:49,483 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 11:57:55,544 [10] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 11:58:47,735 [15] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 12:04:41,678 [13] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 12:04:56,311 [13] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 12:05:31,254 [16] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 12:05:31,644 [19] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 12:05:44,330 [13] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 12:05:59,746 [13] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 12:54:35,575 [35] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 12:54:39,214 [35] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 12:55:50,347 [42] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 12:58:20,928 [35] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 12:58:23,920 [37] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:00:18,764 [40] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:00:20,320 [41] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:00:26,695 [35] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:01:37,359 [42] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:02:16,454 [35] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:10:35,462 [41] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:11:25,416 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:11:40,199 [14] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:12:28,254 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:12:34,553 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:13:19,100 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:14:24,540 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:16:06,350 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:16:07,864 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:17:00,438 [22] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:17:51,297 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:18:30,697 [27] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:18:54,632 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:18:56,188 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:20:54,087 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:20:58,409 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:21:07,924 [10] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/0
+2022-05-27 13:21:08,382 [16] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:21:16,028 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:25:54,123 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:26:07,571 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:27:23,590 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:27:26,446 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:27:26,939 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:27:27,148 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:27:27,338 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:27:28,849 [15] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:27:29,986 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:28:12,213 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:28:23,764 [15] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:29:26,722 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:29:28,689 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:30:11,081 [12] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/0
+2022-05-27 13:30:11,122 [16] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:30:22,525 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:30:25,137 [11] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/0
+2022-05-27 13:30:25,183 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:30:51,955 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:30:54,074 [20] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:31:16,243 [12] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/0
+2022-05-27 13:31:16,294 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:31:19,307 [12] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/5
+2022-05-27 13:32:30,754 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:32:32,122 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:33:22,400 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:33:24,636 [19] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:40:14,172 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:40:21,083 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:40:21,101 [19] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:41:34,192 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:41:34,206 [19] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:43:36,876 [20] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:43:36,895 [24] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:46:09,127 [31] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:46:09,144 [24] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:49:45,322 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:49:45,336 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:49:58,458 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:49:58,467 [24] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:50:46,190 [24] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:50:46,206 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:51:28,656 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:51:28,668 [24] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:52:51,205 [24] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:52:51,223 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:57:19,388 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:57:19,403 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:57:31,009 [24] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:57:35,591 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/5
+2022-05-27 13:57:35,604 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:57:50,606 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/5
+2022-05-27 13:57:50,619 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:58:52,594 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:58:54,152 [17] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 13:58:54,168 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:59:20,331 [24] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/0
+2022-05-27 13:59:20,383 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 13:59:25,601 [52] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 13:59:25,614 [24] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 13:59:52,911 [52] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/0
+2022-05-27 13:59:52,960 [53] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:00:05,437 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:00:05,452 [53] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:00:56,161 [53] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/0
+2022-05-27 14:01:52,324 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:01:59,493 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:01:59,510 [53] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:02:48,899 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:02:50,123 [53] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:02:51,542 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:02:51,559 [53] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:03:15,897 [53] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/1
+2022-05-27 14:03:15,933 [59] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:12:09,119 [73] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:12:12,507 [53] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:12:12,524 [61] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:15:43,109 [53] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:15:43,109 [62] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:15:43,109 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:15:46,224 [62] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:15:46,240 [67] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:15:55,811 [67] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/1
+2022-05-27 14:15:55,844 [64] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:24:06,209 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:24:06,287 [79] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:24:25,806 [61] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:27:16,336 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:27:19,796 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:27:19,811 [79] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:27:33,225 [61] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/1
+2022-05-27 14:27:33,271 [80] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:27:47,961 [81] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:27:47,972 [79] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:28:55,203 [61] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:28:58,037 [80] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:29:00,089 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 14:29:00,105 [81] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:30:17,797 [81] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:30:21,542 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 14:30:21,561 [81] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:30:31,020 [79] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/2
+2022-05-27 14:30:31,051 [78] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:30:34,282 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 14:30:34,295 [79] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:30:50,470 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:31:40,997 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:31:47,727 [79] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:31:47,747 [81] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:31:56,612 [79] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/1
+2022-05-27 14:31:56,640 [78] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:32:00,998 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:32:01,009 [79] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:32:19,475 [61] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/1
+2022-05-27 14:32:19,498 [81] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:32:23,434 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:32:23,450 [81] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:32:26,040 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:34:59,342 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:35:18,266 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:35:33,298 [78] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:35:53,882 [76] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:36:05,335 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:36:40,232 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/5
+2022-05-27 14:36:40,245 [78] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:38:11,439 [61] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/5
+2022-05-27 14:38:11,462 [76] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:38:32,761 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 14:38:32,776 [78] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:38:43,872 [61] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/2
+2022-05-27 14:38:43,893 [78] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:38:48,497 [76] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 14:38:48,507 [61] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:39:48,384 [78] DEBUG SandyStoreWS.Controllers.ProductosController - PutProductos - api/Productos/1
+2022-05-27 14:39:48,414 [82] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:40:04,091 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:40:42,425 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:40:54,619 [76] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:41:18,995 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:41:30,731 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:41:54,992 [78] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:42:18,305 [83] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:42:45,378 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:42:55,520 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:43:12,018 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:43:16,687 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:43:28,640 [82] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:43:44,778 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:44:04,329 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:44:17,826 [61] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:44:36,750 [61] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:45:56,776 [78] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 14:45:56,876 [83] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:46:29,578 [83] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:49:32,094 [78] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:50:35,347 [78] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:53:13,625 [86] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 14:53:13,671 [87] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:54:36,026 [86] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:54:40,765 [86] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:55:22,863 [87] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 14:55:22,892 [91] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:56:11,491 [86] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:56:19,930 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 14:58:51,401 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 14:59:13,950 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:59:16,147 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 14:59:16,162 [79] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 14:59:21,897 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 14:59:54,246 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 14:59:54,258 [91] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:00:06,986 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:00:08,806 [76] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:00:19,251 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:00:58,290 [60] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:01:01,082 [79] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:01:31,592 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:01:35,814 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:01:36,486 [91] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:02:01,053 [79] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:02:50,623 [79] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:03:04,755 [62] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:03:56,975 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:03:59,284 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:05:04,276 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:05:05,851 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:06:01,005 [53] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:06:23,274 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:06:26,288 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:06:26,900 [53] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:06:27,082 [91] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:06:43,053 [51] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:07:10,604 [53] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:07:12,967 [51] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:07:13,189 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:07:13,385 [91] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:07:13,563 [53] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:08:16,088 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:08:20,536 [51] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:08:20,890 [91] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:08:21,093 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:08:21,292 [91] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:08:41,900 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:09:03,626 [91] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:12:06,801 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:12:06,804 [88] INFO SandyStoreWS.Controllers.ProductosController - Producto no existe
+2022-05-27 15:12:10,986 [46] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/8
+2022-05-27 15:12:10,989 [46] INFO SandyStoreWS.Controllers.ProductosController - Producto no existe
+2022-05-27 15:12:12,311 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:12:15,392 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/7
+2022-05-27 15:12:15,408 [48] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:12:19,642 [88] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/7
+2022-05-27 15:15:40,647 [8] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:15:47,090 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/6
+2022-05-27 15:15:48,583 [8] DEBUG SandyStoreWS.Controllers.ProductosController - DeleteProductos - api/Productos/6
+2022-05-27 15:16:08,639 [8] ERROR SandyStoreWS.Clases.ProductosNegocio - Referencia a objeto no establecida como instancia de un objeto.
+2022-05-27 15:16:08,669 [8] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:16:28,051 [8] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/5
+2022-05-27 15:17:15,676 [9] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:17:18,841 [8] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/5
+2022-05-27 15:17:29,528 [8] DEBUG SandyStoreWS.Controllers.ProductosController - DeleteProductos - api/Productos/5
+2022-05-27 15:18:19,778 [8] ERROR SandyStoreWS.Clases.ProductosNegocio - Referencia a objeto no establecida como instancia de un objeto.
+2022-05-27 15:18:19,796 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:18:22,351 [8] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/2
+2022-05-27 15:18:26,005 [10] DEBUG SandyStoreWS.Controllers.ProductosController - DeleteProductos - api/Productos/2
+2022-05-27 15:24:55,957 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:26:04,800 [14] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:28:43,486 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:28:45,828 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/1
+2022-05-27 15:28:50,159 [10] DEBUG SandyStoreWS.Controllers.ProductosController - DeleteProductos - api/Productos/1
+2022-05-27 15:28:50,382 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:29:01,466 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:29:38,629 [11] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 15:29:38,754 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:29:42,075 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/9
+2022-05-27 15:29:42,091 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:29:48,188 [10] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:29:51,031 [11] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:29:52,690 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/9
+2022-05-27 15:29:52,700 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:29:59,775 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:30:02,343 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/9
+2022-05-27 15:30:02,354 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:30:11,311 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:30:13,272 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:30:14,878 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/9
+2022-05-27 15:30:14,890 [23] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:30:17,864 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:30:21,537 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos/9
+2022-05-27 15:30:23,712 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:30:25,441 [27] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:30:53,801 [10] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 15:30:53,822 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:30:57,008 [11] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:31:01,711 [32] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:31:03,448 [10] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:31:39,539 [10] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 15:31:39,570 [23] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:31:50,079 [10] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 15:32:18,981 [23] DEBUG SandyStoreWS.Controllers.ProductosController - PostProductos - api/Productos/
+2022-05-27 15:32:19,003 [27] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:32:31,059 [10] DEBUG SandyStoreWS.Controllers.ProductosController - api/Productos
+2022-05-27 15:45:29,039 [10] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 15:45:29,208 [10] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 15:55:14,912 [10] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 15:55:14,950 [10] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 15:56:45,910 [10] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 15:56:45,945 [10] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 15:56:50,168 [10] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 15:56:50,203 [10] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 15:56:53,224 [28] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 15:56:53,261 [28] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 15:56:57,450 [10] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 15:56:57,487 [10] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 16:01:09,141 [29] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:01:09,181 [29] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 16:01:38,221 [37] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:01:42,206 [37] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 16:02:41,921 [29] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:02:43,050 [29] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 16:03:23,980 [30] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:03:27,735 [30] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 16:04:01,440 [29] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:04:01,478 [29] ERROR SandyStoreWS.Clases.ProductosNegocio - No se encuentra ninguna cadena de conexión denominada 'SandyStoreWSEntities' en el archivo de configuración de la aplicación.
+2022-05-27 16:04:11,263 [29] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:15:39,949 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:15:51,024 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:15:57,667 [9] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:15:59,878 [9] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 16:16:22,000 [9] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:27:55,845 [6] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:28:06,141 [6] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 18:28:08,733 [6] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:28:11,156 [6] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/9
+2022-05-27 18:28:11,666 [8] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 18:28:18,097 [6] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:28:19,977 [6] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/12
+2022-05-27 18:28:22,005 [7] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:28:25,356 [7] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:28:29,311 [8] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:51:33,981 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:52:17,910 [10] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:53:27,949 [13] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:54:46,149 [14] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:54:55,598 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:55:03,552 [12] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:56:55,415 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:57:34,784 [14] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:57:41,344 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:57:41,769 [13] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:57:41,967 [14] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:58:23,346 [15] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:58:32,575 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:59:16,707 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:59:28,618 [16] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:59:39,895 [15] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 18:59:58,153 [16] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:00:01,407 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:00:02,052 [15] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:00:02,264 [16] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:00:02,463 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:00:02,655 [15] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:00:12,191 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:41:47,724 [32] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:41:50,164 [32] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:42:00,614 [40] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/12
+2022-05-27 19:42:01,024 [39] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 19:42:18,369 [40] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/12
+2022-05-27 19:42:18,379 [39] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 19:43:16,019 [40] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/12
+2022-05-27 19:43:16,031 [32] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 19:44:04,473 [32] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:44:09,549 [32] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:44:12,197 [32] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/12
+2022-05-27 19:44:12,209 [40] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 19:47:31,012 [40] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 19:47:38,746 [32] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 19:47:41,212 [32] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:47:43,285 [53] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/12
+2022-05-27 19:47:43,299 [32] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 19:47:50,077 [32] DEBUG SandyStoreWS.Controllers.DepartamentosController - api/Departamentos
+2022-05-27 19:47:58,326 [40] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:48:04,536 [32] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:54:19,400 [10] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:54:23,450 [20] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 19:54:28,643 [11] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:04:58,142 [6] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:07:35,075 [6] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/9
+2022-05-27 20:14:42,183 [28] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:14:45,206 [19] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:14:48,642 [19] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:15:15,700 [22] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:15:18,238 [19] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:17:17,827 [19] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:17:18,927 [34] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:19:02,691 [22] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:23:52,968 [22] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:25:50,696 [19] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/
+2022-05-27 20:33:34,261 [10] DEBUG SandyStoreWS.Controllers.ProductosController - GetProductos, api/Productos/

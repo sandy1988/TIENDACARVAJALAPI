@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SandyStoreWSModelStoreContainer" CdmEntityContainer="SandyStoreWSEntities">
+    <EntitySetMapping Name="Productos">
+      <EntityTypeMapping TypeName="SandyStoreWSModel.Productos">
+        <MappingFragment StoreEntitySet="Productos">
+          <ScalarProperty Name="ProFechaActualizacion" ColumnName="ProFechaActualizacion" />
+          <ScalarProperty Name="ProFechaCreacion" ColumnName="ProFechaCreacion" />
+          <ScalarProperty Name="ProRutaImagen" ColumnName="ProRutaImagen" />
+          <ScalarProperty Name="ProValor" ColumnName="ProValor" />
+          <ScalarProperty Name="ProDescripcion" ColumnName="ProDescripcion" />
+          <ScalarProperty Name="ProNombre" ColumnName="ProNombre" />
+          <ScalarProperty Name="DepID" ColumnName="DepID" />
+          <ScalarProperty Name="ProID" ColumnName="ProID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Departamentos">
+      <EntityTypeMapping TypeName="SandyStoreWSModel.Departamentos">
+        <MappingFragment StoreEntitySet="Departamentos">
+          <ScalarProperty Name="DepDescripcion" ColumnName="DepDescripcion" />
+          <ScalarProperty Name="DepID" ColumnName="DepID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

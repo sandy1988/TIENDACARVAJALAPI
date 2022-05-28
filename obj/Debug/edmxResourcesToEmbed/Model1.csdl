@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SandyStoreWSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SandyStoreWSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Productos" EntityType="SandyStoreWSModel.Productos" />
+    <EntitySet Name="Departamentos" EntityType="SandyStoreWSModel.Departamentos" />
+    <AssociationSet Name="FK_Productos_Productos" Association="SandyStoreWSModel.FK_Productos_Productos">
+      <End Role="Departamentos" EntitySet="Departamentos" />
+      <End Role="Productos" EntitySet="Productos" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Productos">
+    <Key>
+      <PropertyRef Name="ProID" />
+    </Key>
+    <Property Name="ProID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DepID" Type="Int32" />
+    <Property Name="ProNombre" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ProDescripcion" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="ProValor" Type="Double" />
+    <Property Name="ProRutaImagen" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="ProFechaCreacion" Type="DateTime" Precision="3" />
+    <Property Name="ProFechaActualizacion" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Departamentos" Relationship="SandyStoreWSModel.FK_Productos_Productos" FromRole="Productos" ToRole="Departamentos" />
+  </EntityType>
+  <EntityType Name="Departamentos">
+    <Key>
+      <PropertyRef Name="DepID" />
+    </Key>
+    <Property Name="DepID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DepDescripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Productos" Relationship="SandyStoreWSModel.FK_Productos_Productos" FromRole="Departamentos" ToRole="Productos" />
+  </EntityType>
+  <Association Name="FK_Productos_Productos">
+    <End Type="SandyStoreWSModel.Departamentos" Role="Departamentos" Multiplicity="0..1" />
+    <End Type="SandyStoreWSModel.Productos" Role="Productos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departamentos">
+        <PropertyRef Name="DepID" />
+      </Principal>
+      <Dependent Role="Productos">
+        <PropertyRef Name="DepID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
